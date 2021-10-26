@@ -1,4 +1,3 @@
-# Cole_Repository
 # Project 1: TitanicAnalysis Project Overview
 - In this project the Titanic dataset is analysed and prepared for ML fitting.
 - A classifiction algorithm is used to predict wheter a passenger whould have survived the wreck or not.
