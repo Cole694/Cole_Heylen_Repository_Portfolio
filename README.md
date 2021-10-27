@@ -17,7 +17,7 @@
 - In Section 2 the data is cleaned.
 - Section 3 consists of model selection, training and implementation.
 
-# [Project 4: Movie_Recommendations Priject Overview](https://github.com/Cole694/Movie_Recommendations)
+# [Project 4: Movie_Recommendations Project Overview](https://github.com/Cole694/Movie_Recommendations)
 - A random forest regressor algorithm is used to successfully predict movie recommendations.
 - The data was sourced from kaggle.com
 - This repository contains 2 notebooks:
